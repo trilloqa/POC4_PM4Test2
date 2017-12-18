@@ -1,7 +1,6 @@
 /lib/js/jquery-3.2.1/jquery-3.2.1.js
 /lib/js/tether-1.3.3/tether.js
 /lib/js/bootstrap-4/bootstrap.js
-/lib/js/chartjs/Chart.js
 /lib/js/jquery.history-master/jquery.history.js
 /lib/js/moment/moment.js
 /lib/js/typeahead.js
