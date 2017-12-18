@@ -1,0 +1,5 @@
+{
+  "name" : "PM4Test2",
+  "type" : "page",
+  "controller" : "AppC"
+}
